@@ -1,0 +1,16 @@
+unstructured  
+tiktoken  
+pinecone-client  
+pypdf2  
+openai 
+langchain  
+pandas  
+numpy  
+python-dotenv  
+langchain_community 
+langchain-text-splitters 
+faiss-cpu  
+huggingface_hub 
+streamlit
+langchain_openai 
+langchain_core
